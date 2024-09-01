@@ -1,0 +1,8 @@
+# tree.column('#0', stretch=NO, minwidth=0, width=0)
+# tree.column('#1', stretch=NO, minwidth=0, width=0)
+# tree.column('#2', stretch=NO, minwidth=0, width=80)
+# tree.column('#3', stretch=NO, minwidth=0, width=120)
+# tree.column('#4', stretch=NO, minwidth=0, width=90)
+# tree.column('#5', stretch=NO, minwidth=0, width=80)
+# tree.column('#6', stretch=NO, minwidth=0, width=30)
+# tree.column('#7', stretch=NO, minwidth=0, width=120)
